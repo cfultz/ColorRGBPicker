@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColorsRGB</string>
+    <string name="app_heading">Create an RGB Color</string>
+    <string name="description">Add two hexadecimal characters between 0-9, A-F or a-f without the "#" for each channel</string>
+    <string name="red_channel">Red Channel</string>
+    <string name="green_channel">Green Channel</string>
+    <string name="blue_channel">Blue Channel</string>
+    <string name="create_button">Create RGB Color</string>
+    <string name="no_input">Input characters to generate color.</string>
+    <string name="pound_sign">#</string>
+</resources>

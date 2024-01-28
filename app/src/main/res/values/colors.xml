@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#a4c639</color>
+    <color name="my_dark_primary">#89288b</color>
+    <color name="light_purple">#c339c6</color>
+    <color name="pale_green">#f6ffd2</color>
+    <color name="army_mud">#55670a</color>
+    <color name="lime_android">#59c639</color>
+    <color name="poo_android">#8b8028</color>
+    <color name="baby_poo">#c6b739</color>
+    <color name="dark_android">#435115</color>
+</resources>
