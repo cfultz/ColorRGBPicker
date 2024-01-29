@@ -8,6 +8,6 @@
         <item name="colorSecondary">@color/pale_green</item>
         <item name="colorSecondaryVariant">@color/baby_poo</item>
         <item name="colorOnSecondary">@color/pale_green</item>
-        <item name="android:colorBackground">@color/dark_android</item>
+        <item name="android:colorBackground">@color/dark_grey</item>
     </style>
 </resources>
